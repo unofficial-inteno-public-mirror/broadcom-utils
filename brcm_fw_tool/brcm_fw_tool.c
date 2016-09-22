@@ -33,7 +33,6 @@
 #include <sys/ioctl.h>
 #include <fcntl.h>
 #include <errno.h>
-#include <error.h>
 #include <time.h>
 #include <string.h>
 #include <sys/mman.h>
